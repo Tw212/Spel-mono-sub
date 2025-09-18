@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Spel-mono-sub")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6e9e88bc5e86fd4810ef62dfdb8e33c5fb222e45")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+53ca78063a424c2bee37c5752da48a33a902420f")]
 [assembly: System.Reflection.AssemblyProductAttribute("Spel-mono-sub")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Spel-mono-sub")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
